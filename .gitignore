@@ -1,7 +1,7 @@
 *.exe
 *.cpp.bin
 /number theory/*.cpp.bin
-/tree/*.cpp.bin
+**/*.cpp.bin
 /number theory/tempCodeRunnerFile.cpp
 /number theory/tempCodeRunnerFile.exe
 /tree/tempCodeRunnerFile.exe
