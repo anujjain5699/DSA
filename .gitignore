@@ -1,0 +1,6 @@
+*.exe
+*.cpp.bin
+number theory/*.cpp.bin
+tree/*.cpp.bin
+exe
+tempCodeRunnerFile.cpp
