@@ -1,8 +1,13 @@
 *.exe
 *.cpp.bin
+<<<<<<< HEAD
 number theory/*.cpp.bin
 number theory/*.exe
 tree/*.cpp.bin
 tree/*.exe
+=======
+/number theory/*.cpp.bin
+/tree/*.cpp.bin
+>>>>>>> 5375e2fe71d289bd68008c94590619abb1cc3b0a
 exe
 tempCodeRunnerFile.cpp
