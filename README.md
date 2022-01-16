@@ -13,3 +13,5 @@ Problems are mainly from Coding Ninjas📰🔥**.
 - [x] tree
 - [x] binary tree
 - [x] binary search tree 
+- [x] priority queues 
+- [x] hashmaps
