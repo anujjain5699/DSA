@@ -15,3 +15,8 @@ Problems are mainly from Coding Ninjas📰🔥**.
 - [x] binary search tree 
 - [x] priority queues 
 - [x] hashmaps
+- [x] dynamic programming
+- [x] searching and sorting
+- [x] arrays
+- [x] backtracking
+- [x] linkedlist
